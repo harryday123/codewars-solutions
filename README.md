@@ -1,4 +1,4 @@
-# codewars-solutions
+# Codewars Solutions
 
 Hey guys, this repo is a collection of all the codewars kata I have completed. I mainly only do Python and JS so don't expect other languages solutions.
 
@@ -12,4 +12,4 @@ Once you have submitted your final solution to the site, all the other user-subm
 ## Format
 For all the kata I complete and upload here the first line will be the link to the kata. Then my solutions and attempts will be next, followed by my final solution and then finally the top voted solution for that kata.
 
-Any time I use solutions or help from StackOverflow, the link or links will be provided as well at the relevant point in the file. 
+Any time I use solutions or help from StackOverflow, the link or links will be provided as well at the relevant point in the file.
